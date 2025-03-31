@@ -15,8 +15,8 @@ document.addEventListener("keydown", function(event) {
         infoDiv = document.createElement("div");
         infoDiv.id = "key-info";
         infoDiv.style.position = "fixed";
-        infoDiv.style.top = "10px";
-        infoDiv.style.left = "10px";
+        infoDiv.style.top = "50px";
+        infoDiv.style.left = "50px";
         infoDiv.style.padding = "10px";
         infoDiv.style.background = "#000";
         infoDiv.style.color = "#fff";
